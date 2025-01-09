@@ -1,0 +1,15 @@
+C:\Users\akank\Desktop\Interview preparation\.netcorewebapipractice\dotNetCoreWebApiPractice\bin\Debug\net7.0\dotNetCoreWebApiPractice.exe
+C:\Users\akank\Desktop\Interview preparation\.netcorewebapipractice\dotNetCoreWebApiPractice\bin\Debug\net7.0\dotNetCoreWebApiPractice.deps.json
+C:\Users\akank\Desktop\Interview preparation\.netcorewebapipractice\dotNetCoreWebApiPractice\bin\Debug\net7.0\dotNetCoreWebApiPractice.runtimeconfig.json
+C:\Users\akank\Desktop\Interview preparation\.netcorewebapipractice\dotNetCoreWebApiPractice\bin\Debug\net7.0\dotNetCoreWebApiPractice.dll
+C:\Users\akank\Desktop\Interview preparation\.netcorewebapipractice\dotNetCoreWebApiPractice\bin\Debug\net7.0\dotNetCoreWebApiPractice.pdb
+C:\Users\akank\Desktop\Interview preparation\.netcorewebapipractice\dotNetCoreWebApiPractice\obj\Debug\net7.0\dotNetCoreWebApiPractice.csproj.AssemblyReference.cache
+C:\Users\akank\Desktop\Interview preparation\.netcorewebapipractice\dotNetCoreWebApiPractice\obj\Debug\net7.0\dotNetCoreWebApiPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akank\Desktop\Interview preparation\.netcorewebapipractice\dotNetCoreWebApiPractice\obj\Debug\net7.0\dotNetCoreWebApiPractice.AssemblyInfoInputs.cache
+C:\Users\akank\Desktop\Interview preparation\.netcorewebapipractice\dotNetCoreWebApiPractice\obj\Debug\net7.0\dotNetCoreWebApiPractice.AssemblyInfo.cs
+C:\Users\akank\Desktop\Interview preparation\.netcorewebapipractice\dotNetCoreWebApiPractice\obj\Debug\net7.0\dotNetCoreWebApiPractice.csproj.CoreCompileInputs.cache
+C:\Users\akank\Desktop\Interview preparation\.netcorewebapipractice\dotNetCoreWebApiPractice\obj\Debug\net7.0\dotNetCoreWebApiPractice.dll
+C:\Users\akank\Desktop\Interview preparation\.netcorewebapipractice\dotNetCoreWebApiPractice\obj\Debug\net7.0\refint\dotNetCoreWebApiPractice.dll
+C:\Users\akank\Desktop\Interview preparation\.netcorewebapipractice\dotNetCoreWebApiPractice\obj\Debug\net7.0\dotNetCoreWebApiPractice.pdb
+C:\Users\akank\Desktop\Interview preparation\.netcorewebapipractice\dotNetCoreWebApiPractice\obj\Debug\net7.0\dotNetCoreWebApiPractice.genruntimeconfig.cache
+C:\Users\akank\Desktop\Interview preparation\.netcorewebapipractice\dotNetCoreWebApiPractice\obj\Debug\net7.0\ref\dotNetCoreWebApiPractice.dll
